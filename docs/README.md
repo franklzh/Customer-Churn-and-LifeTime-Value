@@ -1,4 +1,7 @@
-# Project Documentation
+# Documentation
 
-This directory contains supplementary documentation about the original
-code, implementation decisions, and improvements made during this project.
+This folder contains supporting documentation about the project.
+
+## `original_code_review.md`
+
+Reviews the original analysis notebooks, identifies implementation and reproducibility issues, and documents considerations for improving the project.
